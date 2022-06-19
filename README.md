@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%BCsl%C3%BCm-yurtada/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-y%C4%B1lmaz-4b196023a/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -91,15 +91,15 @@ ________________________________________________________________________________
 ## 📈 Statistics
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=mslmyrtd" alt="visitor counter" width="20%"/>
+ <img src="https://komarev.com/ghpvc/?username=MustafaYilmaz1625" alt="visitor counter" width="20%"/>
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=mslmyrtd&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mslmyrtd&theme=chartreuse-dark" alt="my commit status" width="49%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MustafaYilmaz1625&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaYilmaz1625&theme=chartreuse-dark" alt="my commit status" width="49%" />
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslmyrtd&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaYilmaz1625&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </p>
 
 
